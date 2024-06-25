@@ -127,7 +127,7 @@ class Instructor extends Model
       }
     }
 
-    public function earns($id)
+    public static function earns($id)
     {
       $som = 0;
         $amounts = DB::table('payments')
