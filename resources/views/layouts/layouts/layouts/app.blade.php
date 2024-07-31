@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{{\App\Models\Site::first()->description}}" />
 <meta name="keywords" content="Geeks UI, learn ,e-learning , Course, Sass, landing, Marketing, admin themes, bootstrap admin, students, bootstrap dashboard, ui kit, web app, multipurpose" />
-{{-- <meta http-equiv="refresh" content="30"> --}}
+{{-- <meta http-equiv="refresh" c                                                                                                                                                                                                                                                                                   ontent="30"> --}}
 
 
 <script defer src="{{ mix('js/app.js') }}"></script>  

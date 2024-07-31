@@ -77,8 +77,9 @@
 }
 
 </style>
+@livewireStyles
   </head>
-  @livewireStyles
+ 
 <body>
     <div id="db-wrapper">
       <!-- navbar vertical -->
@@ -430,8 +431,8 @@
     <!-- Libs JS -->
  
     @livewireScripts
-      @livewire('livewire-ui-modal')
-                 @stack('modals')
+      {{-- @livewire('livewire-ui-modal')
+                 @stack('modals') --}}
 
 
  
